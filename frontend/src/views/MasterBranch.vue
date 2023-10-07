@@ -1,3 +1,3 @@
 <template>
-  <p>any merge</p>
+  <p>master branch from second branch merge</p>
 </template>
