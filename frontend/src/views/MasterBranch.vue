@@ -1,3 +1,7 @@
 <template>
-  <a href="#">walo</a>
+  <div>
+
+    <p>walo</p>
+    <a href="#">walo</a>
+  </div>
 </template>
