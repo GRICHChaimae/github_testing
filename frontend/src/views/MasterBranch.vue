@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>master branch from third branch merge</p>
+    <p>from third one</p>
     <a href="#">link</a>
     <button>ssss</button>
     <h1>sssss</h1>
