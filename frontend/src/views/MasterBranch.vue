@@ -1,3 +1,3 @@
 <template>
-  <p>master branch --- first again branch is here</p>
+  <p>master file from second branch merge</p>
 </template>
