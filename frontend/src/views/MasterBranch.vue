@@ -1,3 +1,3 @@
 <template>
-  <p>master branch --- second branch is here</p>
+  <p>master branch master branch is here</p>
 </template>
