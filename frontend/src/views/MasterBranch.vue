@@ -4,5 +4,7 @@
     <a href="#">link</a>
     <button>ssss</button>
     <h1>sssss</h1>
+    <span>sssssss</span>
+    <h2>slg</h2>
   </div>
 </template>
