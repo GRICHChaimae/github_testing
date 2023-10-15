@@ -1,5 +1,5 @@
 <template>
   <div>
-    <p>master </p>
+    <p>master branch</p>
   </div>
 </template>
